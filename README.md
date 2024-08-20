@@ -21,7 +21,7 @@ Display List: Print the contents of the linked list.
 Getting Started
 To get started with this project, you'll need to clone the repository and compile the C program.
 
-https://github.com/psarvesh129/Linked-List-Implementation/tree/179e01400d9f86404c82f2384df382c7a80620a4
+https://github.com/psarvesh129/Linked-List-Implementation/tree/main
 cd Linked-List-Implementation
 gcc main.c -o linked_list
 ./linked_list
